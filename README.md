@@ -1,7 +1,7 @@
 # Demo: PaddleOCR reconhecendo placa de carro
 
 1. Carrega o PaddleOCR.
-2. Le TODA a imagem e mostra no terminal tudo o que a biblioteca conseguiu
+2. Le toda a imagem e mostra no terminal tudo o que a biblioteca conseguiu
    reconhecer.
 3. Filtra so os textos que batem com o formato de placa brasileira
    (antigo `ABC1234` ou Mercosul `ABC1D23`).

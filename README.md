@@ -13,8 +13,6 @@
 pip install -r requirements.txt
 python main.py capturas/placa-carro-1.jpg
 ```
-Na primeira execucao o PaddleOCR baixa os modelos automaticamente.
+Na primeira execucao o Paddleocr baixa os modelos automaticamente.
 
-Ref. 
-https://github.com/PADDLEPADDLE/PADDLEOCR
-https://aistudio.baidu.com/paddleocr
+**Referências:** [GitHub](https://github.com/PaddlePaddle/PaddleOCR) | [AI Studio](https://aistudio.baidu.com/paddleocr)

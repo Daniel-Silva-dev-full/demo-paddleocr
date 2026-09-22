@@ -11,7 +11,9 @@
 
 ```bash
 pip install -r requirements.txt
+python main.py [suapasta]/[seuarquivo]
 python main.py capturas/placa-carro-1.jpg
+
 ```
 Na primeira execucao o Paddleocr baixa os modelos automaticamente.
 
